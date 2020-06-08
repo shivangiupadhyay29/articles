@@ -7,5 +7,6 @@ export default {
     toggleFavorite,
     toggleFollowing,
     deleteArticle,
-    editArticle
+    editArticle,
+    
 }
