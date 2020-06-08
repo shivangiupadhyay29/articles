@@ -1,0 +1,41 @@
+.article-border{
+    border-top: 1px solid rgba(0,0,0,.1);
+    padding: 1.5rem 0;
+}
+
+.title-article{
+    font-weight: 600!important;
+    font-size: 1.5rem!important;
+    margin-bottom: 3px;
+    color: black;
+}
+
+.article-preview{
+    text-decoration: none;
+}
+.article-preview:hover{
+    text-decoration: black;
+}
+
+.description{
+    font-weight: 300;
+    font-size: 24px;
+    color: #999;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    line-height: 1.3rem;
+}
+
+.readmore{
+    max-width: 30%;
+    font-size: .8rem;
+    font-weight: 300;
+    color: #bbb;
+    vertical-align: middle;
+}
+
+.favorite{
+    color: #fff;
+    background-color: #449d44;
+    border-color: #419641;
+}

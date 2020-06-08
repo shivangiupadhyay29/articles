@@ -1,0 +1,4 @@
+export default {
+    'GET_TAGS_REQUEST':'GET_TAGS_REQUEST',
+    'GET_TAGS_RECEIVED':'GET_TAGS_RECEIVED'
+}
