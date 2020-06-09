@@ -45,3 +45,6 @@ is not found you in local storage , the page will be again redirected to sign in
 
 # 6.localstorage 
 is used as directed can be found in utils folder.
+
+# error boundary support
+at root level is provided.
