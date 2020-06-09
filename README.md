@@ -16,16 +16,16 @@ This project is published on heroku platform.
 or else feel free to register yourself with your id and explore :)
 
 ## This application consists of all the features mentioned in the assignment:-
-1.Personal feed
-2.Global feed
-3.Filter articles by tags
+1.Personal feed  
+2.Global feed  
+3.Filter articles by tags  
 # `support for tags in article is implemented with favorites.`
-4.Author Profile view
-5.Author following and unfollowing features.
-6.Posting and deleting comments on the articles.
-7.Article view with edit and delete features.
-8.logout and update user settings.
-9.with auth and session management.
+4.Author Profile view  
+5.Author following and unfollowing features.  
+6.Posting and deleting comments on the articles.  
+7.Article view with edit and delete features.  
+8.logout and update user settings.  
+9.with auth and session management.  
 
 ## Few pointers on code level description:-
 1.Hocs like auth for 
