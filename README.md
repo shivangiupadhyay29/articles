@@ -8,8 +8,7 @@ to install this project on your local system.
 ### `yarn start`
 to run the application on your local system.
 
-This project is published on heroku platform.
-## To check it out use this link https://articles-project.herokuapp.com/
+## Application is published on heroku platform to checkout use this link https://articles-project.herokuapp.com/
 
 # login credentials :`email:shivangi@gmail.com,password:123456789`
 
@@ -28,8 +27,7 @@ or else feel free to register yourself with your id and explore :)
 9.with auth and session management.  
 
 ## Few pointers on code level description:-
-1.Hocs like auth for 
-# `protecting urls`
+1.Hocs like auth for `protecting urls`  
 
 2.Hoc for setting the 
 # document title of page.
