@@ -29,20 +29,15 @@ or else feel free to register yourself with your id and explore :)
 ## Few pointers on code level description:-
 1.Hocs like auth for `protecting urls`  
 
-2.Hoc for setting the 
-# document title of page.
+2.Hoc for setting the `document title of page.`
 
-3.new article and edit article ares some 
-# routes that are protected and you will redirected to sign in url.
+3.new article and edit article ares some `routes that are protected and you will redirected to sign in url.`
 
 4.for Invalid  urls you will be directed as a fallback to 
 # `Not found page`.
 
-# 5.token 
-is not found you in local storage , the page will be again redirected to sign in page.
+5.`token` is not found you in local storage , the page will be again redirected to sign in page.
 
-# 6.localstorage 
-is used as directed can be found in utils folder.
+6.`localstorage` is used as directed can be found in utils folder.
 
-# error boundary support
-at root level is provided.
+7. `error boundary` support at root level is provided.
