@@ -25,6 +25,8 @@ or else feel free to register yourself with your id and explore :)
 7.Article view with edit and delete features.  
 8.logout and update user settings.  
 9.with auth and session management.  
+10.pagination  
+
 
 ## Few pointers on code level description:-
 1.Hocs like auth for `protecting urls`  
