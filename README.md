@@ -19,7 +19,7 @@ This application consists of all the support mentioned in the assignment:-
 1.Personal feed
 2.Global feed
 3.Filter articles by tags
-## support for tags in article is implemented with favourites.
+## support for tags in article is implemented with favorites.
 4.Author Profile view
 5.Author following and unfollowing features.
 6.Posting and deleting comments on the articles.
