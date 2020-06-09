@@ -11,15 +11,15 @@ to run the application on your local system.
 This project is published on heroku platform.
 ## To check it out use this link https://articles-project.herokuapp.com/
 
-# login credentials :shivangi@gmail.com,123456789
+# login credentials :`email:shivangi@gmail.com,password:123456789`
 
-# or else feel free to register yourself with your id and explore :)
+or else feel free to register yourself with your id and explore :)
 
-This application consists of all the support mentioned in the assignment:-
+## This application consists of all the features mentioned in the assignment:-
 1.Personal feed
 2.Global feed
 3.Filter articles by tags
-## support for tags in article is implemented with favorites.
+# `support for tags in article is implemented with favorites.`
 4.Author Profile view
 5.Author following and unfollowing features.
 6.Posting and deleting comments on the articles.
