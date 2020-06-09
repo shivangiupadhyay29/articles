@@ -9,11 +9,11 @@ to install this project on your local system.
 to run the application on your local system.
 
 This project is published on heroku platform.
-To check it out use this link https://articles-project.herokuapp.com/
+## To check it out use this link https://articles-project.herokuapp.com/
 
-login credentials :shivangi@gmail.com,123456789
+# login credentials :shivangi@gmail.com,123456789
 
-or else feel free to register yourself with your id and explore :)
+# or else feel free to register yourself with your id and explore :)
 
 This application consists of all the support mentioned in the assignment:-
 1.Personal feed
@@ -27,18 +27,21 @@ This application consists of all the support mentioned in the assignment:-
 8.logout and update user settings.
 9.with auth and session management.
 
-Code level:-
+## Few pointers on code level description:-
 1.Hocs like auth for 
-## `protecting urls`
+# `protecting urls`
 
 2.Hoc for setting the 
-## document title of page.
+# document title of page.
 
-3.new article and edit article ares some routes that are protected and you will redirected to sign in url.
+3.new article and edit article ares some 
+# routes that are protected and you will redirected to sign in url.
 
 4.for Invalid  urls you will be directed as a fallback to 
-## `Not found page`.
+# `Not found page`.
 
-5. if token is not found you in local storage , the page will be again redirected to sign in page.
+# 5.token 
+is not found you in local storage , the page will be again redirected to sign in page.
 
-6.localstorage is used as directed can be found in utils folder.
+# 6.localstorage 
+is used as directed can be found in utils folder.
